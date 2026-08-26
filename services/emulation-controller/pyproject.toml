@@ -33,7 +33,7 @@ dependencies = [
     "structlog>=24.1.0",
     "python-json-logger>=2.0.0",
     "pyyaml>=6.0.1",
-    "aegisforge-event-schema @ file://../../packages/event-schema",
+    "aegisforge-event-schema>=1.0.0",
 ]
 
 [project.optional-dependencies]
