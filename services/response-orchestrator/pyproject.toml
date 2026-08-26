@@ -34,8 +34,8 @@ dependencies = [
     "python-json-logger>=2.0.0",
     "pyyaml>=6.0.1",
     "tenacity>=8.2.0",
-    "aegisforge-event-schema @ file://../../packages/event-schema",
-    "aegisforge-policy-engine @ file://../../packages/policy-engine",
+    "aegisforge-event-schema>=1.0.0",
+    "aegisforge-policy-engine>=1.0.0",
 ]
 
 [project.optional-dependencies]
